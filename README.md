@@ -25,13 +25,13 @@ Technology Used- ExpressJs, MongoDB, RestAPI
 1. Clone the repository:
 
    ```bash
-   git clone link
+   https://github.com/robertostepic/NodeExpressCrudRestAPI.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd "Name of the folder"
+   cd CRUDNOAUTH
    ```
 
 3. Install dependencies:
@@ -62,11 +62,11 @@ Technology Used- ExpressJs, MongoDB, RestAPI
 
 ## API Endpoints
 ```
-- `GET /api/all-todos`: Get a list of all blog posts.
-- `GET /api/todo/:id`: Get details of a specific blog post by ID.
-- `POST /api/new-todo`: Create a new blog post.
-- `PUT /api/update-todo/:id`: Update details of a specific blog post by ID.
-- `DELETE /api/delete-todo/:id`: Delete a blog post by ID.
+- `GET /api/all-todos`: Get a list of all posts.
+- `GET /api/todo/:id`: Get details of a specific post by ID.
+- `POST /api/new-todo`: Create a new  post.
+- `PUT /api/update-todo/:id`: Update details of a specific  post by ID.
+- `DELETE /api/delete-todo/:id`: Delete a  post by ID.
 ```
 
 ### 📁 _Directory view_
@@ -105,7 +105,7 @@ Contributions are welcome! If you find any issues or want to enhance the project
 5. Submit a pull request.
 
 ## Snapshots
-![home page](https://github.com/vickytilotia/ExpressJS-MongoDB-RestAPI-Blog/assets/32337899/54540bec-567e-402d-b68f-293207ffd35e)
+![home page]()
 
 ## Authors
 
